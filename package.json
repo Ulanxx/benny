@@ -11,6 +11,7 @@
   "dependencies": {
     "benny": "^3.7.1",
     "camel-case": "^4.1.2",
+    "object-sizeof": "^1.6.3",
     "param-case": "^3.0.4"
   }
 }
